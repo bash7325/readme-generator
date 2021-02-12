@@ -2,7 +2,7 @@
 const fs = require('fs')
 //require inquirer module
 const inquirer = require('inquirer')
-
+//user inputs
 const inputs = [
     {
         type: 'input',
