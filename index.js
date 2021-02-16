@@ -5,9 +5,11 @@ const inquirer = require('inquirer')
 //utility module
 const util = require('util');
 //generator module
-var generateMarkdown = require('./utils/generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown');
+//new file
+const newReadMe = generateMarkdown(data);
 //user inputs
-const inputs = [
+inquirer.prompt([
     {
         type: 'input',
         name: 'title',
@@ -39,4 +41,10 @@ const inputs = [
         message: 'Please enter test instructions',
     },
 
-]
+])
+
+    .then((data) => {
+        console.log(data)
+        fs.writeFileSync("README.md", newReadMe);
+        const newReadMe = generateMarkdown(data);
+    });
