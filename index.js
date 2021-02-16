@@ -38,6 +38,10 @@ inquirer
         type: 'input',
         name: 'test',
         message: 'Please enter test instructions',
+
+        type: 'input',
+        name: 'license',
+        message: 'Please enter license type',
     },
 
 ]).then((data) => {
