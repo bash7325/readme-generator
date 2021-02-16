@@ -46,6 +46,7 @@ inquirer
 
 ]).then((data) => {
         console.log(data)
+        console.log("Created README.md")
         const newReadMe = generateMarkdown(data);
         fs.writeFileSync("README.md", newReadMe);
         
