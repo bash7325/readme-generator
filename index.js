@@ -5,7 +5,7 @@ const inquirer = require('inquirer')
 //utility module
 const util = require('util');
 //generator module
-const generateMarkdown = require('./utils/generateMarkdown');
+const generateMarkdown = require('./node_modules/inquirer/lib/utils/generateMarkdown');
 //user inputs
 inquirer
 .prompt([
