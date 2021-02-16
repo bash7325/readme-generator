@@ -2,6 +2,10 @@
 const fs = require('fs')
 //require inquirer module
 const inquirer = require('inquirer')
+//utility module
+const util = require('util');
+//generator module
+var generateMarkdown = require('./utils/generateMarkdown');
 //user inputs
 const inputs = [
     {
