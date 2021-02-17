@@ -45,9 +45,10 @@ inquirer
         message: 'Please enter test instructions',
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
         message: 'Please enter license type',
+        choices: ["MIT", "Apache", "Eclipse", "Mozilla", "Unlicense"],
     },
     {
         type: 'input',
