@@ -11,7 +11,7 @@ inquirer
 .prompt([
     {
         type: 'input',
-        name: 'projectTitle',
+        name: 'title',
         message: 'Please enter your project title',
     },
     {
@@ -22,7 +22,7 @@ inquirer
     {
         type: 'input',
         name: 'link',
-        message: 'Please enter your projects link',
+        message: 'Please enter your projects deployed link',
     },
     {
         type: 'input',
@@ -54,6 +54,11 @@ inquirer
         type: 'input',
         name: 'email',
         message: 'Please enter email for questions',
+    },
+    {
+        type: 'input',
+        name: 'github',
+        message: 'Please enter your github profile address',
     },
     
 
