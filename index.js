@@ -43,11 +43,18 @@ inquirer
         type: 'input',
         name: 'test',
         message: 'Please enter test instructions',
-
+    },
+    {
         type: 'input',
         name: 'license',
         message: 'Please enter license type',
     },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'Please enter email for questions',
+    },
+    
 
 ]).then((data) => {
         console.log(data)

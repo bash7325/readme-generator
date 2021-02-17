@@ -1,8 +1,8 @@
 
-  # Brandon [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+  # Brandons stuff [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
   
   ## Description
-  test 
+  things 
 
   [Deployed Link](www.fart.com)
   ## Table of Contents
@@ -13,10 +13,14 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  sdfa
+  do the things
   ## Usage
-  fads
+  do whatever you want
   ## License
   This project is licensed under the MIT license.
   ## Contributions
-  asdf
+  contribute
+  ## Tests
+  undefined
+  ## Questions
+  If you have any questions please reach out to me at bash7325@gmail.com
