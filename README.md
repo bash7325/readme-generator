@@ -1,8 +1,8 @@
 
-    # undefined
-    ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
-   ## The Repository
-   test
+    # This is a title
+    ![badge](https://img.shields.io/badge/license-mit-brightgreen)<br />
+   ## This is a description
+
    
      ## Table of Contents
      ### [Installation](#installation)
@@ -11,14 +11,14 @@
      ### [License](#license)
    
    ## Installation
-   test
+   click install
    ## Usage
-   test
+   for fun
    ## Contribution
    Collaborators: 
-   * Name: undefined
-   * GitHub: ![github](https://github.com/undefined)
+   * Name: Brandon
+   * GitHub: ![github](https://github.com/bash7325)
    ## License
-   Licensed under the MIT.
+   Licensed under the mit.
     
   

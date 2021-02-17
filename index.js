@@ -11,7 +11,7 @@ inquirer
 .prompt([
     {
         type: 'input',
-        name: 'title',
+        name: 'projectTitle',
         message: 'Please enter your project title',
     },
     {
@@ -33,6 +33,16 @@ inquirer
         type: 'input',
         name: 'contribution',
         message: 'Please enter contribution guidelines',
+    },
+    {
+        type: 'input',
+        name: 'collaborator1',
+        message: 'Please enter collaborator name',
+    },
+    {
+        type: 'input',
+        name: 'github1',
+        message: 'Please enter collaborator Github',
     },
     {
         type: 'input',
