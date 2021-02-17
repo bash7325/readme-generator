@@ -21,6 +21,11 @@ inquirer
     },
     {
         type: 'input',
+        name: 'link',
+        message: 'Please enter your projects link',
+    },
+    {
+        type: 'input',
         name: 'installation',
         message: 'Please enter the installation instructions',
     },
@@ -33,16 +38,6 @@ inquirer
         type: 'input',
         name: 'contribution',
         message: 'Please enter contribution guidelines',
-    },
-    {
-        type: 'input',
-        name: 'collaborator1',
-        message: 'Please enter collaborator name',
-    },
-    {
-        type: 'input',
-        name: 'github1',
-        message: 'Please enter collaborator Github',
     },
     {
         type: 'input',
