@@ -1,28 +1,30 @@
+# README Generator
 
-  # This is a test [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-  
-  ## Description
-  Testing the readme generator 
+- A Node.js application to create porfessional README for projects.
 
-  [Deployed Link](http://github.com/bash7325/readme-generator)
-  ## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
-  ## Installation
-  node index
-  ## Usage
-  for generating readme
-  ## License
-  This project is licensed under the MIT license.
-  ## Contributions
-  Riley the dog helped
-  ## Tests
-  undefined
-  ## Questions
-  If you have any questions please reach out to me at bash7325@gmail.com 
+# Criteria met
 
-  Or visit my Github profile [Github link](http://github.com/bash7325)
+- When I enter information from the prompts, that information is displayed in the correct places on the README
+- Links take you to the correct place on the README as well as external links
+- Utilizes the Inquirer package
+
+# Resources used
+
+- [W3 schools](https://www.w3schools.com/)
+- [Shields.io](https://shields.io/)
+- [NPM](https://www.npmjs.com/)
+
+# Technologies used
+- Node.js
+- NPM package installer
+- JavaScript
+- Markdown
+
+# Video of Working Project
+
+![Video of Working Application](https://drive.google.com/file/d/1OGxESUd-jRq7GvM56E0NGOGz3V9hV9y9/view)
+
+# Screenshots of generated README
+
+[Readme 1](https://i.imgur.com/fTGNVp2.png)
+[Readme 2](https://i.imgur.com/Eh40YEV.png)
