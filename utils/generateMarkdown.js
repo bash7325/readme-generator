@@ -31,7 +31,7 @@ function generateMarkdown(data) {
   
   ## Description
   ${data.description} \n
-  [Deployed Link](${data.link})
+  [Deployed Link](http://${data.link})
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -51,7 +51,7 @@ function generateMarkdown(data) {
   ${data.tests}
   ## Questions
   If you have any questions please reach out to me at ${data.email} \n
-  Or visit my Github profile [Github link](${data.github})
+  Or visit my Github profile [Github link](http://${data.github})
 `;
 }
 
