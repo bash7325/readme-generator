@@ -22,9 +22,9 @@
 
 # Video of Working Project
 
-![Video of Working Application](https://drive.google.com/file/d/1OGxESUd-jRq7GvM56E0NGOGz3V9hV9y9/view)
+[Video of Working Application](https://drive.google.com/file/d/1OGxESUd-jRq7GvM56E0NGOGz3V9hV9y9/view)
 
 # Screenshots of generated README
 
-[Readme 1](https://i.imgur.com/fTGNVp2.png)
-[Readme 2](https://i.imgur.com/Eh40YEV.png)
+![Readme 1](https://i.imgur.com/fTGNVp2.png)
+![Readme 2](https://i.imgur.com/Eh40YEV.png)
